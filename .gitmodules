@@ -1,0 +1,3 @@
+[submodule "Sports_Client"]
+	path = Sports_Client
+	url = https://github.com/SybooSyboo782/Sports_Client
